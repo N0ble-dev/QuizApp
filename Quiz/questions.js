@@ -1,6 +1,6 @@
 
 
-import { Settings } from "/Quiz/settings.js";
+import { Settings } from "Quiz/settings.js";
 class Questions {
     constructor(data) {
         this.qustion = document.getElementById("questions");
