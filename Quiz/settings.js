@@ -1,6 +1,5 @@
 
-// https://opentdb.com/api.php?amount=10&category=21 sport
-import {Questions} from "/Quiz/questions.js";
+import {Questions} from "./questions.js";
 class Settings {
     constructor() {
         this.getAmount = this.getAmount.bind(this);
