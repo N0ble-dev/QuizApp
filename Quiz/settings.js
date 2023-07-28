@@ -1,5 +1,5 @@
 
-import {Questions} from "./questions.js";
+import {Questions} from "/Quiz/questions.js";
 class Settings {
     constructor() {
         this.getAmount = this.getAmount.bind(this);
